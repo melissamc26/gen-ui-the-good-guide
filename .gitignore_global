@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
+
+# iOS specific
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+*.ipa
+
+# Logs
+*.log
+
